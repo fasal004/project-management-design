@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    text-decoration: underline solid;
+}
+
+.bg{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(138, 132, 132);
+    margin-left: 25%;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+
+.row{
+    font-size: 20px;
+    height: 40px;
+    margin-left: 60px;
+    padding: 15px;
+}
+.project1{
+    width: 180px ;
+    margin-left: 120px;
+    height: 25px;
+}
+.project2{
+    height: 25px;
+    width: 150px ;
+    margin-left: 135px;
+}
+.project3{
+    height: 25px;
+    width: 150px ;
+    margin-left: 150px;
+}
+.project4{
+    height: 25px;
+    width: 150px ;
+    margin-left: 155px;
+}
+.project6{
+    height: 25px;
+    width: 150px ;
+    margin-left: 140px;
+}
+.submit{
+    background-color: green;
+    height: 30px;
+    width: 70px;
+}
+.clear{
+    background-color: red;
+    height: 30px;
+    width: 70px;
+}
+.row2{
+    text-align: center;
+    padding: 30px;
+}
+
+/* @media screen and (min-width: 780px) {
+    .bg {
+        display: flex;
+    }
+    .clear {
+        background-color: blueviolet;
+    }
+} */
